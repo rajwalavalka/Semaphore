@@ -1,2 +1,0 @@
-# Semaphore
-Producer consumer problem
